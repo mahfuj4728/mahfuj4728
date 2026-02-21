@@ -26,7 +26,7 @@
 ### 🛠 Tech Stack
 - 💻 Python  
 - 📊 Machine Learning  
-- 🧠 Deep Learning (Learning Phase)  
+- 🧠 Deep Learning
 - 📈 Data Analysis  
 
 ---
